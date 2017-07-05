@@ -1,0 +1,10 @@
+d:\andrei\documents\visual studio 2013\Projects\MWS_Reconstituirea\MWS_Reconstituirea\bin\Debug\MWS_Reconstituirea.exe.config
+d:\andrei\documents\visual studio 2013\Projects\MWS_Reconstituirea\MWS_Reconstituirea\bin\Debug\MWS_Reconstituirea.exe
+d:\andrei\documents\visual studio 2013\Projects\MWS_Reconstituirea\MWS_Reconstituirea\bin\Debug\MWS_Reconstituirea.pdb
+d:\andrei\documents\visual studio 2013\Projects\MWS_Reconstituirea\MWS_Reconstituirea\obj\Debug\MWS_Reconstituirea.exe
+d:\andrei\documents\visual studio 2013\Projects\MWS_Reconstituirea\MWS_Reconstituirea\obj\Debug\MWS_Reconstituirea.pdb
+D:\Andrei\Documents\Visual Studio 2013\Projects\MWS_Reconstituirea\MWS_Reconstituirea\obj\Debug\MWS_Reconstituirea.csprojResolveAssemblyReference.cache
+D:\Andrei\Documents\Visual Studio 2013\Projects\MWS_Reconstituirea\MWS_Reconstituirea\bin\Debug\Newtonsoft.Json.dll
+D:\Andrei\Documents\Visual Studio 2013\Projects\MWS_Reconstituirea\MWS_Reconstituirea\bin\Debug\Newtonsoft.Json.xml
+D:\Andrei\Documents\Visual Studio 2013\Projects\MWS_Reconstituirea\MWS_Reconstituirea\bin\Debug\MWSClientCsRuntime-1.0.dll
+D:\Andrei\Documents\Visual Studio 2013\Projects\MWS_Reconstituirea\MWS_Reconstituirea\bin\Debug\MWSOrders_2013-09-01_v2017-02-22.dll
